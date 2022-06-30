@@ -1,0 +1,6 @@
+beautifulsoup4==4.11.1
+pandas==1.4.2
+requests==2.27.1
+stqdm==0.0.4
+streamlit==1.10.0
+streamlit_option_menu==0.3.2
